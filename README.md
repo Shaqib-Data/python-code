@@ -9,3 +9,5 @@ Daily coding practice - Data Science journey
 •⁠  ⁠[x] Day 2: control flow and loops
 
 •⁠  ⁠[x] Day 3: strings
+
+•⁠  ⁠[x] Day 4: functions and modules
