@@ -11,3 +11,6 @@ Daily coding practice - Data Science journey
 •⁠  ⁠[x] Day 3: strings
 
 •⁠  ⁠[x] Day 4: functions and modules
+
+•⁠  ⁠[x] Day 5: data structures 
+
