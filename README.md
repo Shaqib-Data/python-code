@@ -14,3 +14,5 @@ Daily coding practice - Data Science journey
 
 •⁠  ⁠[x] Day 5: data structures 
 
+•⁠  ⁠[x] Day 6:
+
