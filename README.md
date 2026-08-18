@@ -1,6 +1,6 @@
 # Python-Code
 
-Daily coding practice  -  Data Science journey
+Daily coding practice - Data Science journey
 
 ## Days Completed
 
