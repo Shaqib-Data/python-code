@@ -6,7 +6,7 @@ Daily coding practice - Data Science journey
 
 •⁠  ⁠[x] Day 1: Introduction to Programming & Python Fundamentals
 
-•⁠  ⁠[x] Day 2: control flow and loops
+•⁠  ⁠[x] Day 2: control flow and loop
 
 •⁠  ⁠[x] Day 3: strings
 
