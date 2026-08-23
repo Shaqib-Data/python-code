@@ -8,7 +8,7 @@ Daily coding practice - Data Science journey
 
 •⁠  ⁠[x] Day 2: control flow and loops
 
-•⁠  ⁠[x] Day 3: stringss
+•⁠  ⁠[x] Day 3: strings
 
 •⁠ 
 
